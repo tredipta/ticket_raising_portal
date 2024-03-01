@@ -1,3 +1,8 @@
+<h1>After importing project, open terminal and typle command : npm install</h1>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
